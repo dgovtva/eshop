@@ -1,0 +1,22 @@
+{
+    "001" : {
+        "name" : "Огурцы",
+        "cost" : "100",
+        "image" : "images/cucumbers1.jpg"
+    },
+    "002" : {
+        "name" : "Картофель",
+        "cost" : "150",
+        "image" : "images/potatoes1.jpg"
+    },
+    "003" : {
+        "name" : "Помидоры",
+        "cost" : "130",
+        "image" : "images/tomatoes1.jpg"
+    },
+    "004" : {
+        "name" : "Свекла",
+        "cost" : "70",
+        "image" : "images/beet1.jpg"
+    },
+}

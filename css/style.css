@@ -1,0 +1,22 @@
+html {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    width: 100%;
+    height: 100%;
+}
+
+.single-goods{
+    padding: 1%;
+    text-align: center;
+    border: 1px solid grey;
+    width: 400px;
+    height: 200px;
+}
+
+.single-goods button {
+    display: block;
+    margin: 1%;
+}
